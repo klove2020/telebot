@@ -1,0 +1,7 @@
+# ! command line
+set http_proxy=http://127.0.0.1:7890  
+set https_proxy=http://127.0.0.1:7890 
+
+
+openai key: 
+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
